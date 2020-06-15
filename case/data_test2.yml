@@ -1,0 +1,15 @@
+test_add_articleclassify_param2:
+- ["测试中文测试中文", True]
+- ["English", True]
+- ["12223333", True]
+
+test_add_articleclassify_param3:
+- ["测试中文测试中文", True, "文章分类输入中文，保存成功"]
+- ["English", True, "文章分类输入英文，保存成功"]
+- ["12223333", True, "文章分类输入数字，保存成功"]
+- ["abc测试23333", True, "文章分类输入数字，保存成功"]
+
+test_login_param2:
+- ["admin", "123456", True]
+- ["admin", "yoyo123", False]
+- ["admin", " ", False]

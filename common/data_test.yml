@@ -1,0 +1,9 @@
+test_add_articleclassify_param:
+- ["测试中文", True]
+- ["English", True]
+- ["112233", True]
+
+test_login_param:
+- ["admin", "123456", True]
+- ["admin", "yoyo123", False]
+- ["admin", " ", False]
