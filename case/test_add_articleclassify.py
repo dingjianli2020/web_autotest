@@ -55,4 +55,5 @@ def test_add_classify2(login_fixture):
     with allure.step("获取结果：获取页面实际结果，判断是否添加成功"):
         result1 = article.is_add_success()
     with allure.step("断言：判断是否添加成功"):
-        assert result1 == False
+        # assert result1 == False
+        assert result1 == True
