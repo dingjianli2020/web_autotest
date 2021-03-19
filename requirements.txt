@@ -31,7 +31,7 @@ django-import-export==1.2.0
 django-ranged-response==0.2.0
 django-simple-captcha==0.5.10
 django-stdimage==4.0.1
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 docker==3.7.3
 docker-pycreds==0.4.0
 dockerpty==0.4.1
