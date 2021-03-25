@@ -92,7 +92,7 @@ PyTestReport==0.2.1
 python-utils==2.3.0
 pytz==2019.2
 pywin32==227
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==18.1.0
 requests==2.22.0
 requests-toolbelt==0.9.1
