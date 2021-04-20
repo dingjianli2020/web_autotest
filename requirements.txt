@@ -71,7 +71,7 @@ paramiko==2.6.0
 Pillow==6.2.1
 pluggy==0.13.1
 progressbar2==3.47.0
-py==1.8.0
+py==1.10.0
 pyasn1==0.4.7
 pycparser==2.19
 pycryptodome==3.9.0
