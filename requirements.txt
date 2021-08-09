@@ -91,7 +91,7 @@ pytest-xdist==1.23.2
 PyTestReport==0.2.1
 python-utils==2.3.0
 pytz==2019.2
-pywin32==227
+pywin32==301
 PyYAML==3.12
 pyzmq==18.1.0
 requests==2.22.0
